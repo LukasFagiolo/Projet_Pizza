@@ -29,15 +29,15 @@ namespace Projet_Pizza.Classe
 
             }
         }
-           public override string ToString()
+            
+        public override string ToString()
         {
             string txt = "";
-
+            var ingredientToUp = ingredient.Select(i => FormatFirstLetterUppercase(i));
             txt += name;
-            string badgeVeg = vegetarian ? " (V)" : "";  
-            if (vegetarian) { txt += "(V)"; }
+            string badgeVeg = vegetarian ? " (V)" : ""; 
             txt += badgeVeg + " - " + price + "$\n";
-            txt += string.Join(", ", ingredient) + "\n";
+            txt += string.Join(", ", ingredientToUp) + "\n";
             return txt;
 
         }

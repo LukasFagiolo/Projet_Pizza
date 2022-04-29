@@ -22,15 +22,15 @@ namespace Projet_Pizza.Classe
         public override string ToString()
         {
             string txt = "";
-
+            var ingredientToPrint = ingredients.Select(i => FormatFirstLetterUppercase(i));
             txt += FormatFirstLetterUppercase(name);
             string badgeVeg = vegetarian ? " (V)" : "";  //nouveau
             //if (vegetarian) { txt += "(V)"; }
             txt += badgeVeg + " - " + price + "$\n";
-            txt += string.Join(", ", ingredients) + "\n"; //nouveau
+            txt += string.Join(", ", ingredientToPrint) + "\n"; //nouveau
             return txt;
         }
-        private static string FormatFirstLetterUppercase(string s)
+        public static string FormatFirstLetterUppercase(string s)
         {
             if (string.IsNullOrEmpty(s))
                 return s;
