@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2135676\\source\\repos\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj": {}
+    "C:\\Users\\2138341\\Source\\Repos\\Projet_Pizza2\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2135676\\source\\repos\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj": {
+    "C:\\Users\\2138341\\Source\\Repos\\Projet_Pizza2\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2135676\\source\\repos\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj",
+        "projectUniqueName": "C:\\Users\\2138341\\Source\\Repos\\Projet_Pizza2\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj",
         "projectName": "Projet_Pizza",
-        "projectPath": "C:\\Users\\2135676\\source\\repos\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj",
-        "packagesPath": "C:\\Users\\2135676\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2135676\\source\\repos\\Projet_Pizza\\Projet_Pizza\\obj\\",
+        "projectPath": "C:\\Users\\2138341\\Source\\Repos\\Projet_Pizza2\\Projet_Pizza\\Projet_Pizza\\Projet_Pizza.csproj",
+        "packagesPath": "C:\\Users\\2138341\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2138341\\Source\\Repos\\Projet_Pizza2\\Projet_Pizza\\Projet_Pizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\2135676\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2138341\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -22,7 +22,10 @@ var listPizzas = new List<Pizza>() {
     new Pizza("margherita", 8f, false, new List<string>{"sauce tomate","mozzarella","basilic"}),
     new Pizza("Calzone", 12f, false, new List<string>{"tomate","jambon","persil", "oignons"}),
     new Pizza("Complète", 9.50f, false,new List<string>{"jambon","oeuf","fromage"})
+    
 };
+PizzaPersonnalisée pizzaPersonnalisée = new PizzaPersonnalisée();
+
 
 Pizza pizzaPriceMin = null;
 Pizza pizzaPriceMax = null;
@@ -47,4 +50,4 @@ foreach (var onePizza in listPizzas)
 {
     Console.WriteLine(onePizza);
 }
-
+Console.WriteLine(pizzaPersonnalisée);
