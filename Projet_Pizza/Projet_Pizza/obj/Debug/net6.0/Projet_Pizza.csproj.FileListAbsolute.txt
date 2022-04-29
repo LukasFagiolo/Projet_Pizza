@@ -1,0 +1,15 @@
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\bin\Debug\net6.0\Projet_Pizza.exe
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\bin\Debug\net6.0\Projet_Pizza.deps.json
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\bin\Debug\net6.0\Projet_Pizza.runtimeconfig.json
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\bin\Debug\net6.0\Projet_Pizza.dll
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\bin\Debug\net6.0\ref\Projet_Pizza.dll
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\bin\Debug\net6.0\Projet_Pizza.pdb
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.csproj.AssemblyReference.cache
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.AssemblyInfoInputs.cache
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.AssemblyInfo.cs
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.csproj.CoreCompileInputs.cache
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.dll
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\ref\Projet_Pizza.dll
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.pdb
+C:\Users\2135676\source\repos\Projet_Pizza\Projet_Pizza\obj\Debug\net6.0\Projet_Pizza.genruntimeconfig.cache
